@@ -15,8 +15,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
 
      // home:homepage(),
-      theme: ThemeData(primarySwatch: Colors.deepOrange),
-     
+      theme: ThemeData(primarySwatch: Colors.blue
+      ),
+      debugShowCheckedModeBanner: false,
+     initialRoute: myRoutes.homeroute,
       routes: {
          "/" : (context)=> loginpage(),
         myRoutes.homeroute :(context)=> homepage(),
