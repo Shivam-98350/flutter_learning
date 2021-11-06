@@ -12,7 +12,13 @@ class homepage extends StatelessWidget {
       ),
        body: Center(
           child: Container(
-             child:Text("welcome to flutter")
+             child:Text("Welcome to flutter",
+             style: TextStyle(
+               fontSize: 30,
+               color : Colors.blueAccent,
+
+             ),
+             )
           ),
         ),
         
