@@ -8,3 +8,4 @@ class item {
 
   item(this.name, this.id, this.colour, this.desp, this.price, this.image);
 }
+
