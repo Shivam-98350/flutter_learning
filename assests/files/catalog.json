@@ -1,0 +1,56 @@
+{
+"products":[
+{ 
+"name": "iphone 12 pro max",
+"id": 1, 
+"color":"#33505a",
+"despr": "high performance",
+"price": 999,
+"image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61183/iphone-12-pro-blue-hero.jpg"
+},
+
+{ 
+"name": "iphone 10 pro max",
+"id": 2, 
+"color":"#008000",
+"despr": "high performance 2",
+"price": 899,
+"image": "https://i.pinimg.com/736x/29/2a/bd/292abd74ae207f55742ed6a80e6a7f5a.jpg"
+},
+
+
+{ 
+"name": "mac air book",
+"id": 3, 
+"color":"#808080",
+"despr": "super high performance",
+"price": 1999,
+"image": "https://m.media-amazon.com/images/I/51FQpz-zY1L._SL1024_.jpg"
+},
+
+
+{ 
+"name": "iphone 12 pro max",
+"id": 4, 
+"color":"#33505a",
+"despr": "high performance",
+"price": 999,
+"image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61183/iphone-12-pro-blue-hero.jpg"
+},
+
+
+{ 
+"name": "iphone 12 mini",
+"id": 5, 
+"color":"#0000FF",
+"despr": "Good performance",
+"price": 900,
+"image": "https://m.media-amazon.com/images/I/71sNNCTfMuL._SX679_.jpg"
+}
+
+
+
+
+]
+
+}
